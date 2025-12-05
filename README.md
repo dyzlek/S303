@@ -23,11 +23,10 @@ Ce projet permet aux utilisateurs de scanner une affiche cible pour voir appara�
 
 ```
 nuitblanche/
-├── assets/             # Images, sons et modèles 3D (organisés par scène 1-6)
+├── assets/             # Images, sons, modèles 3D et cible (affiche.mind)
 ├── js/
 │   └── components.js   # Contient toute la logique des composants A-Frame
 ├── index.html          # Point d'entrée de l'application
-├── affiche.mind        # Fichier cible compilé pour MindAR
 └── README.md           # Documentation
 ```
 
