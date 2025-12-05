@@ -69,7 +69,3 @@ La logique a été consolidée pour simplifier la maintenance.
     - `sceneX-trigger` : Gestion des transitions entre les scènes.
 
 **Attention aux chemins :** Tous les liens vers les ressources (`src`) sont relatifs (`./assets/...`) pour assurer la compatibilité quel que soit le dossier racine du serveur.
-
-## 👥 Auteur
-
-Projet réalisé par Dylan pour l'événement Nuit Blanche.
