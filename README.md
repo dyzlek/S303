@@ -1,6 +1,6 @@
 # L'Apprentissage à Béziers - Expérience AR
 
-Une application de Réalité Augmentée (WebAR) interactive pour la Nuit Blanche, visualisant l'évolution et les statistiques de l'enseignement supérieur à Béziers.
+Une application de Réalité Augmentée (WebAR) interactive, visualisant l'évolution et les statistiques de l'enseignement supérieur à Béziers.
 
 Ce projet permet aux utilisateurs de scanner une affiche cible pour voir apparaître des animations 3D, des graphiques interactifs et des séquences narratives racontant l'histoire de l'apprentissage dans la ville.
 
@@ -22,7 +22,6 @@ Ce projet permet aux utilisateurs de scanner une affiche cible pour voir appara�
 ## 📂 Structure du Projet
 
 ```
-nuitblanche/
 ├── assets/             # Images, sons, modèles 3D et cible (affiche.mind)
 ├── js/
 │   └── components.js   # Contient toute la logique des composants A-Frame
